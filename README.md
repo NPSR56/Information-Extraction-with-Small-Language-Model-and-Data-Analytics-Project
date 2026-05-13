@@ -40,7 +40,7 @@ pip install pandas transformers torch sentencepiece pythainlp streamlit
 ## Usage
 
 ### Step 1 — Scrape + NER + Sentiment Analysis
-เปิด `01_scrape_and_ner_sentiment.ipynb` ใน Jupyter แล้วรัน All Cells
+เปิด `scrape_and_ner_sentiment.ipynb` ใน Jupyter แล้วรัน All Cells
 
 ผลลัพธ์: `data/articles.csv` และ `data/articles_processed.csv`
 
