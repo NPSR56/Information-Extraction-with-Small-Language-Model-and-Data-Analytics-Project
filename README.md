@@ -1,0 +1,1 @@
+# Information-Extraction-with-Small-Language-Model-and-Data-Analytics-Project
